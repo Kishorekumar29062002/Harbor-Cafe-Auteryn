@@ -1,0 +1,12 @@
+{
+  "name": "harbor-cafe-auteryn",
+  "version": "1.0.0",
+  "description": "Harbor Cafe application and Auteryn AI testing suite",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
